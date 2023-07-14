@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ignacio Rodriguez"
+title                    : "Ignacio Rodriguez Hurtado"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ignacio Rodriguez Hurtado"
 description              : &description "personal description"
 url                      : https://ignacio-rh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ignacio Rodriguez Hurtado"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Candidate in Economics"
+  location         : "Durham, NC"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : ignacio.rh@duke.edu
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
