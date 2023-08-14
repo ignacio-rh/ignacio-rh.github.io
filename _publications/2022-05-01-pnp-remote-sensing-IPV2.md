@@ -4,14 +4,12 @@ collection: publications
 permalink: /publication/2022-08-01-edcc_ipv_peru
 excerpt: 'Using variation in job loss for different occupations in Perú, we find households with worse employment shocks experienced important decreases in income and increases in intimate partner violence during the COVID-19 pandemic. We document these households also had worse mental health outcomes during this time.'
 date: 2022-08-01
-venue: 'Economic Development and Cultural Change. [Working Paper Version](https://ignacio-rh.github.io/files/edcc_ipv_peru.pdf)'
-paperurl: 'https://ignacio-rh.github.io/files/edcc_ipv_peru.pdf'
+venue: 'AEA Papers and Proceedings'
+paperurl: 'https://www.aeaweb.org/articles?id=10.1257/pandp.20221014'
 ---
 
 With Jorge Agüero, Erica Field and Javier Romero
 
-_Accepted._ Economic Development and Cultural Change. [Working Paper Version](https://ignacio-rh.github.io/files/edcc_ipv_peru.pdf)
+_Published_ AEA Papers and Proceedings. [Link](https://www.aeaweb.org/articles?id=10.1257/pandp.20221014)
 
-_Abstract_ A large literature has explored the effect of the COVID-19 pandemic on intimate part- ner violence (IPV) worldwide. However, few studies provide clear evidence on the mechanisms through which the pandemic exacerbated violence and many rely on hot- line or police report data, which confounds changes in reporting behavior. Our paper addresses this issue by conducting a large nationwide survey in Peru, a country that has been hit particularly hard by COVID-19. We isolate pandemic-related economic shocks based on geographic variation in the industry composition of employment shocks, and find a sizable and sustained increase in IPV, which aligns with the patterns found in helpline calls. Households most likely to lose a job experienced the largest increases in IPV. These patterns indicate that economic losses were an integral causal mechanism through which COVID-19 increased IPV.
-
-
+_Abstract_ Using a survey conducted in Peru, we explore the use of remote sensing data in predicting income and intimate partner violence (IPV). We find that remote sensing measures correctly predict short-run changes in income during the COVID-19 pandemic. However, the remote sensing data fail to explain any corresponding change in IPV. In contrast, using individualized information from our survey, we find that negative economic shocks result in higher levels of IPV. We conclude that remote sensing data may be useful when studying changes in income during the pandemic, but may be inappropriate when studying behavioral responses like IPV.
