@@ -12,11 +12,7 @@ author_profile: true
  -->
 {% include base_path %}
 
-# Publications
-
-## Header two
-
-### Header three
+## Publications
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}

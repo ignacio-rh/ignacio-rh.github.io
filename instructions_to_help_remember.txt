@@ -3,3 +3,5 @@ https://github.com/academicpages/academicpages.github.io
 
 
 use  _data/navigation.yml to edit the navigation bar 	
+
+use file example_paper_data_file.md for the original template for papers. but the idea is you structure the data then publish accordingly. 
