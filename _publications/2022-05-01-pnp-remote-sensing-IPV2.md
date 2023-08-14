@@ -5,7 +5,7 @@ permalink: /publication/2022-05-01-pnp-remote-sensing-IPV2
 excerpt: >
     Nightlight and NO2 measures correctly predict short-run changes in income during the COVID-19 pandemic. 
     The remote sensing data do not find any corresponding change in intimate partner violence (IPV). 
-    Households Occupational sector strongly predicts both income and IPV. 
+    Household's occupational sector strongly predicts both income and IPV. 
     Remote sensing data are useful when studying changes in income during the pandemic, but may be inappropriate when studying behavioral responses like IPV.
 date: 2022-05-01
 venue: 'AEA Papers and Proceedings'
