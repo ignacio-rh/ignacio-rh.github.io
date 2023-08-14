@@ -1,9 +1,9 @@
 ---
-title: "COVID-19, Job Loss, and Intimate Partner Violence in Peru"
+title: "Is Remote Sensing Data Useful for Studying the Association between Pandemic-Related Changes in Economic Activity and Intimate Partner Violence?"
 collection: publications
 permalink: /publication/2022-08-01-edcc_ipv_peru
-excerpt: 'Using variation in job loss for different occupations in Perú, we find households with worse employment shocks experienced important decreases in income and increases in intimate partner violence during the COVID-19 pandemic. We document these households also had worse mental health outcomes during this time.'
-date: 2022-08-01
+excerpt: 'Nightlight and NO2 measures correctly predict short-run changes in income during the COVID-19 pandemic. The remote sensing data do not find any corresponding change in intimate partner violence (IPV). Occupational sector strongly predicts both income and IPV. Remote sensing data are useful when studying changes in income during the pandemic, but may be inappropriate when studying behavioral responses like IPV.'
+date: 2022-05-01
 venue: 'AEA Papers and Proceedings'
 paperurl: 'https://www.aeaweb.org/articles?id=10.1257/pandp.20221014'
 ---
