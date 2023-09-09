@@ -6,6 +6,9 @@ use  _data/navigation.yml to edit the navigation bar
 
 use file example_paper_data_file.md for the original template for papers. but the idea is you structure the data then publish accordingly. 
 
+Each publication will follow format set out in 
+/_includes/archive-published-paper.html
+
 in general use single quotes for YAML table info (what is used to form the paper info) 
 https://stackoverflow.com/a/67536258
 
