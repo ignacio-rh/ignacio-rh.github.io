@@ -9,6 +9,8 @@ use file example_paper_data_file.md for the original template for papers. but th
 Each publication will follow format set out in 
 /_includes/archive-published-paper.html
 
+if it doesnt include venue it will break. AND YOU NEED THE PAPER URL ASL WELL UGH
+
 in general use single quotes for YAML table info (what is used to form the paper info) 
 https://stackoverflow.com/a/67536258
 
