@@ -14,7 +14,7 @@ author_profile: true
 
 ## Job Market Paper
 {% for post in site.portfolio reversed %}
-  {% include archive-published-paper.html %}
+  {% include archive-published-paper_jmp.html %}
 {% endfor %}
 
 
