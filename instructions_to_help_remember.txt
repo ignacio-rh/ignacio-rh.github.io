@@ -21,3 +21,5 @@ but use spaces not tabs (in comment to response)
 https://stackoverflow.com/a/55993247 
 
 YOU CANNOT USE HTML COMMENTS TO COMMENT OUT YAML THINGS, YOU NEED THE POUND SIGN
+
+I manually changed the masthead file so it just shows my name. _includes/masthead
