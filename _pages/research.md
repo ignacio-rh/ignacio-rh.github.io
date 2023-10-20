@@ -58,7 +58,7 @@ __Political favoritism and production distortions.__ With Kate Vyborny and Sadia
 This study examines the impact of Pakistan's wheat procurement policy, which subsidizes wheat production with 268 million USD annually to stabilize prices and support agricultural producers. The research shows that when the federally fixed procurement price exceeds international prices, provincial governments tend to concentrate wheat procurement in politically aligned constituencies, revealing political favoritism. These procurement changes have tangible effects on household production, with government-aligned areas increasing wheat production and sales, while poorer households and farm renters do not. This suggests that the policy both distorts real production choices and fails to protect the most vulnerable agricultural producers. 
 
 <!--  Third year paper -->
-__Do Drug Traffickers Fight over Access to Inputs?. Evidence from Mexico.__
+__Do Drug Traffickers Fight over Access to Inputs? Evidence from Mexico.__
 
 I study the effect of sourcing costs for opium on violence in Mexico. Opium is the primary input for heroine, an important export for Mexican drug producers. I use variation in travel times induced by landslides for identification in a panel data model to estimate the causal effect of improved access to opium suitable areas. I find that better access increases homicides, while it reduces robberies in areas more likely to be involved in the drug trade. The primary victims of homicides are young men, who are more likely to be involved in the drug trade. The results are not driven by migration or increased conflict with the state. 
 
