@@ -64,7 +64,8 @@ I study the effect of sourcing costs for opium on violence in Mexico. Opium is t
 
 
 <!--  Cash Grants -->
-#Policy Writing
+
+# Policy Writing
 
 [International evidence to inform decision making on implementing urgent response social protection measures](https://ignacio-rh.github.io/publication/cash_grants) With Kate Orkin, Robert Garlick, Marta Grabowska, Brynde Kreft and Alice Cahill
 
