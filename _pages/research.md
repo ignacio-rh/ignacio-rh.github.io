@@ -23,3 +23,12 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-published-paper.html %}
 {% endfor %}
+
+
+## Publications
+
+{% for post in site.workinprogress reversed %}
+  {% include archive-published-paper.html %}
+{% endfor %}
+
+
