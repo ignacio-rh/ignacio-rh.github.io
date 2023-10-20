@@ -43,22 +43,22 @@ Nightlight and NO2 measures correctly predict short-run changes in income during
 
 # Work In Progress
 <!--  Shortlist -->
-Matching Digital Service Export Jobs in Kenya. With Robert Garlick, Caroline Kariuki, Kate Orkin and Laurel Wheeler. [AEA Trial Registry](https://www.socialscienceregistry.org/trials/10574) [IGC Grant](https://www.theigc.org/collections/optimising-labour-sourcing-technology-workers-small-businesses). Field work in progress. 
+__Matching Digital Service Export Jobs in Kenya.__ With Robert Garlick, Caroline Kariuki, Kate Orkin and Laurel Wheeler. [AEA Trial Registry](https://www.socialscienceregistry.org/trials/10574) [IGC Grant](https://www.theigc.org/collections/optimising-labour-sourcing-technology-workers-small-businesses). Field work in progress. 
 
 This project answers two research questions. First, we document the value and career ladders of call center jobs, a form of service export jobs. These service export jobs represent an exciting avenue for economic growth in developing countries, yet they may not result in long-term, prosperous careers. In order to assess the value of these jobs, our partner randomizes call center job offers. Our endline survey will document the impact of these jobs on earnings and career progression. Our second research question is to examine the predictive benefits of algorithmic models of hiring, with the goal of a more productive allocation of workers. However, a key limitation of existing algorithmic hiring models is the selectivity of their samples: Hired workers are typically not representative of the potential pool of applicants. We leverage the randomized job offers from the first research question to estimate a predictive hiring model. 
 
 <!--  Migrant pilot Mexico -->
-Information, Social Networks, and Safety. Reducing Exposure to Human Trafficking in Mexico. With Fernanda Sobrino and Antonella Bandiera. Field work concluded. 
+__Information, Social Networks, and Safety. Reducing Exposure to Human Trafficking in Mexico. With Fernanda Sobrino and Antonella Bandiera.__ Field work concluded. 
 
 In Mexico, a major migration corridor, many migrants lack critical knowledge, increasing their vulnerability during their journey to the US. To address this, we conducted a pilot project. We developed a website with information on shelters, legal rights, and safe travel tips, accompanied by a baseline survey in southern Mexico. Despite higher attrition rates than expected, the treatment significantly reduced outdoor sleeping and risky behaviors. The baseline survey also revealed significant knowledge gaps among migrants regarding asylum requirements and US immigration policy changes, such as the Title 42 change. This pilot underscores the potential of informational interventions for migrants.
 
 <!--  Kate Wheat project -->
-Political favoritism and production distortions. With Kate Vyborny and Sadia Hussain.
+__Political favoritism and production distortions.__ With Kate Vyborny and Sadia Hussain.
 
 This study examines the impact of Pakistan's wheat procurement policy, which subsidizes wheat production with 268 million USD annually to stabilize prices and support agricultural producers. The research shows that when the federally fixed procurement price exceeds international prices, provincial governments tend to concentrate wheat procurement in politically aligned constituencies, revealing political favoritism. These procurement changes have tangible effects on household production, with government-aligned areas increasing wheat production and sales, while poorer households and farm renters do not. This suggests that the policy both distorts real production choices and fails to protect the most vulnerable agricultural producers. 
 
 <!--  Third year paper -->
-Do Drug Traffickers Fight over Access to Inputs?. Evidence from Mexico.
+__Do Drug Traffickers Fight over Access to Inputs?. Evidence from Mexico.__
 
 I study the effect of sourcing costs for opium on violence in Mexico. Opium is the primary input for heroine, an important export for Mexican drug producers. I use variation in travel times induced by landslides for identification in a panel data model to estimate the causal effect of improved access to opium suitable areas. I find that better access increases homicides, while it reduces robberies in areas more likely to be involved in the drug trade. The primary victims of homicides are young men, who are more likely to be involved in the drug trade. The results are not driven by migration or increased conflict with the state. 
 
