@@ -25,7 +25,7 @@ author_profile: true
 {% endfor %}
 
 
-## Publications
+## Work In Progress
 
 {% for post in site.workinprogress reversed %}
   {% include archive-published-paper.html %}
