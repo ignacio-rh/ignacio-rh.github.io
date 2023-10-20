@@ -12,20 +12,20 @@ author_profile: true
 
 {% include base_path %}
 
-## Job Market Paper
+# Job Market Paper
 {% for post in site.portfolio reversed %}
   {% include archive-published-paper.html %}
 {% endfor %}
 
 
-## Publications
+# Publications
 
 {% for post in site.publications reversed %}
   {% include archive-published-paper.html %}
 {% endfor %}
 
 
-## Work In Progress
+# Work In Progress
 
 {% for post in site.workinprogress reversed %}
   {% include archive-published-paper.html %}
