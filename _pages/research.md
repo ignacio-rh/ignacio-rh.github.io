@@ -40,16 +40,6 @@ _Published_ AEA Papers and Proceedings. [Link](https://www.aeaweb.org/articles?i
 Nightlight and NO2 measures correctly predict short-run changes in income during the COVID-19 pandemic. The remote sensing data do not find any corresponding change in intimate partner violence (IPV). Households' occupational sector strongly predicts both income and IPV. Remote sensing data are useful when studying changes in income during the pandemic, but may be inappropriate when studying behavioral responses like IPV.
 
 
-<!--  Cash Grants -->
-
-
-[International evidence to inform decision making on implementing urgent response social protection measures](https://ignacio-rh.github.io/publication/cash_grants) With Kate Orkin, Robert Garlick, Marta Grabowska, Brynde Kreft and Alice Cahill
-
-_Published_ Psychology, Health & Medicine . [Link](https://www.tandfonline.com/doi/full/10.1080/13548506.2022.2108088)
-
-This paper summarises evidence from a rapid review of international findings on the effects of cash transfers. The learnings were used to inform the design of urgent response social protection during the COVID-19 pandemic. The summary demonstrates that in response to widespread disruption, cash transfers have broad benefits for children, adults, and the wider economy.
-
-
 
 # Work In Progress
 <!--  Shortlist -->
@@ -71,6 +61,16 @@ This study examines the impact of Pakistan's wheat procurement policy, which sub
 Do Drug Traffickers Fight over Access to Inputs?. Evidence from Mexico.
 
 I study the effect of sourcing costs for opium on violence in Mexico. Opium is the primary input for heroine, an important export for Mexican drug producers. I use variation in travel times induced by landslides for identification in a panel data model to estimate the causal effect of improved access to opium suitable areas. I find that better access increases homicides, while it reduces robberies in areas more likely to be involved in the drug trade. The primary victims of homicides are young men, who are more likely to be involved in the drug trade. The results are not driven by migration or increased conflict with the state. 
+
+
+<!--  Cash Grants -->
+#Policy Writing
+
+[International evidence to inform decision making on implementing urgent response social protection measures](https://ignacio-rh.github.io/publication/cash_grants) With Kate Orkin, Robert Garlick, Marta Grabowska, Brynde Kreft and Alice Cahill
+
+_Published_ Psychology, Health & Medicine . [Link](https://www.tandfonline.com/doi/full/10.1080/13548506.2022.2108088)
+
+This paper summarises evidence from a rapid review of international findings on the effects of cash transfers. The learnings were used to inform the design of urgent response social protection during the COVID-19 pandemic. The summary demonstrates that in response to widespread disruption, cash transfers have broad benefits for children, adults, and the wider economy.
 
 
 
