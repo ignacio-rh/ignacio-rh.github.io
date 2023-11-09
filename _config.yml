@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ignacio Rodriguez Hurtado | Duke Economics"
+title                    : "Ignacio Rodriguez Hurtado Duke | Economics Department"
 title_separator          : "-"
-name                     : &name "Ignacio Rodriguez Hurtado"
-description              : &description "Ignacio Rodriguez Hurtado | Duke Economics"
+name                     : &name "Ignacio Rodriguez Hurtado Duke"
+description              : &description "Ignacio Rodriguez Hurtado. PhD student , Duke University , I am an applied economist with a focus on economistrics, working at the intersection of crime and development economics."
 url                      : https://ignacio-rh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ignacio-rh/ignacio-rh.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ignacio Rodriguez Hurtado"
   avatar           : "13023_econ_job_market008.jpg"
-  bio              : "PhD Candidate in Economics"
+  bio              : "PhD Student in Economics"
   location         : "Durham, NC"
   employer         : "Duke University"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
