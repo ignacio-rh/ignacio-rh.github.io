@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am an applied economist with a focus on econometrics, working at the intersection of crime and development economics. For my job market paper I study how the presence of large Mexican Drug Trafficking Organizations (DTOs) impact both homicides and middle school dropout. More broadly, I am interested in studying how crime in the developing world impacts individual and household behavior. 
+Welcome to my website! I am an economist working with Charles River Associates in Washington DC. Here you can find my papers, mainly from my PhD at Duke University. 
 
-I am on the European and North American job market for the 2023-24 academic year. 
+All of the views expressed here are my own. They do not represent the views of Charles River Associates. 
